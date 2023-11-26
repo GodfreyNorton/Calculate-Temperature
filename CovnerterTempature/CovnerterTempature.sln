@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovnerterTempature", "CovnerterTempature\CovnerterTempature.csproj", "{F14AA7EE-9A31-415E-9AA4-C21C9B6B58D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14AA7EE-9A31-415E-9AA4-C21C9B6B58D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14AA7EE-9A31-415E-9AA4-C21C9B6B58D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14AA7EE-9A31-415E-9AA4-C21C9B6B58D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14AA7EE-9A31-415E-9AA4-C21C9B6B58D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2FDC8CB-F647-487F-B9FE-FD3624733DC5}
+	EndGlobalSection
+EndGlobal

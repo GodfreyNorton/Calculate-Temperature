@@ -1,0 +1,15 @@
+D:\My Projects\CovnerterTempature\CovnerterTempature\obj\Debug\net7.0\CovnerterTempature.csproj.AssemblyReference.cache
+D:\My Projects\CovnerterTempature\CovnerterTempature\obj\Debug\net7.0\CovnerterTempature.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\CovnerterTempature\CovnerterTempature\obj\Debug\net7.0\CovnerterTempature.AssemblyInfoInputs.cache
+D:\My Projects\CovnerterTempature\CovnerterTempature\obj\Debug\net7.0\CovnerterTempature.AssemblyInfo.cs
+D:\My Projects\CovnerterTempature\CovnerterTempature\obj\Debug\net7.0\CovnerterTempature.csproj.CoreCompileInputs.cache
+D:\My Projects\CovnerterTempature\CovnerterTempature\bin\Debug\net7.0\CovnerterTempature.exe
+D:\My Projects\CovnerterTempature\CovnerterTempature\bin\Debug\net7.0\CovnerterTempature.deps.json
+D:\My Projects\CovnerterTempature\CovnerterTempature\bin\Debug\net7.0\CovnerterTempature.runtimeconfig.json
+D:\My Projects\CovnerterTempature\CovnerterTempature\bin\Debug\net7.0\CovnerterTempature.dll
+D:\My Projects\CovnerterTempature\CovnerterTempature\bin\Debug\net7.0\CovnerterTempature.pdb
+D:\My Projects\CovnerterTempature\CovnerterTempature\obj\Debug\net7.0\CovnerterTempature.dll
+D:\My Projects\CovnerterTempature\CovnerterTempature\obj\Debug\net7.0\refint\CovnerterTempature.dll
+D:\My Projects\CovnerterTempature\CovnerterTempature\obj\Debug\net7.0\CovnerterTempature.pdb
+D:\My Projects\CovnerterTempature\CovnerterTempature\obj\Debug\net7.0\CovnerterTempature.genruntimeconfig.cache
+D:\My Projects\CovnerterTempature\CovnerterTempature\obj\Debug\net7.0\ref\CovnerterTempature.dll
